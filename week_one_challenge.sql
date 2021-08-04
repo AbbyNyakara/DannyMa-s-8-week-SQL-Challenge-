@@ -199,8 +199,3 @@ JOIN sales
 			ON sales.customer_id = members.customer_id
 GROUP BY 1
 ORDER BY 1;
-
-
-
-
-
